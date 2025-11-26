@@ -25,4 +25,6 @@ source hsc-env/bin/activate.fish
 
 ### **sample**
 
+<img width="923" height="1058" alt="swappy-20251126_134302" src="https://github.com/user-attachments/assets/d5654571-4af7-4ba5-bdaa-6fbbf762fe48" />
+
 <img width="923" height="1058" alt="swappy-20251126_133228" src="https://github.com/user-attachments/assets/74a549c3-4d43-47a7-8dd2-7eb8db5cee58" />
