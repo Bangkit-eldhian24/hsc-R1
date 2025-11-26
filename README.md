@@ -24,4 +24,5 @@ source hsc-env/bin/activate.fish
 ```
 
 ### **sample**
-![Uploading swappy-20251126_133228.png…]()
+
+<img width="923" height="1058" alt="swappy-20251126_133228" src="https://github.com/user-attachments/assets/74a549c3-4d43-47a7-8dd2-7eb8db5cee58" />
